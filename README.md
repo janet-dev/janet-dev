@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 Thank you **Anurag Hazra** for these widgets!
 <br><br>
 <!--START_SECTION:activity-->
-
+1. 🎉 Merged PR [#2](https://github.com/janet-dev/Fitness-Accountability/pull/2) in [janet-dev/Fitness-Accountability](https://github.com/janet-dev/Fitness-Accountability)
 <!--END_SECTION:activity-->
