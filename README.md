@@ -9,7 +9,7 @@ a UK-Irish dual national and career changer from the control industry, studying 
 - 🌱 I am currently learning how to build full stack web applications with **Python** and **Anvil**
 - 👯 I have recently joined the **EddieHub Open Source Community** and am collaborating on **#FitDevs**
 - 📫 How to reach me: **@janetdornan** on LinkedIn
-- ⚡ Fun fact: The banner above was created by firing cold enamel powders, on the base of a used baked bean can - **#MyUpcycledArt**
+- ⚡ Fun fact: The banner above was created by firing cold enamel powders, on the base of a used baked bean can.
 
 <!--
 **janet-dev/janet-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,5 +29,8 @@ Here are some ideas to get you started:
 <img 
    src="https://github-readme-stats.vercel.app/api?username=janet-dev&show_icons=true&theme=cobalt" 
 />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janet-dev&layout=compact&hide=Jupyter%20Notebook&theme=cobalt)](https://github.com/janet-dev/github-readme-stats)
 <br>
-Thank you **Anurag Hazra** for this widget!
+Thank you **Anurag Hazra** for these widgets!
+<br><br>
+
