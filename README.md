@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 <br>
 Thank you **Anurag Hazra** for these widgets!
 <br><br>
-
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
