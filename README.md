@@ -33,7 +33,4 @@ Here are some ideas to get you started:
 <br>
 Thank you **Anurag Hazra** for these widgets!
 <br><br>
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/janet-dev/Fitness-Accountability/pull/2) in [janet-dev/Fitness-Accountability](https://github.com/janet-dev/Fitness-Accountability)
-2. 🎉 Merged PR [#23](https://github.com/FitDevs-withKat/Fitness-Accountability/pull/23) in [FitDevs-withKat/Fitness-Accountability](https://github.com/FitDevs-withKat/Fitness-Accountability)
-<!--END_SECTION:activity-->
+
