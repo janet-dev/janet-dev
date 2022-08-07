@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janet-dev&layout=compact&hide=Jupyter%20Notebook&theme=cobalt)](https://github.com/janet-dev/github-readme-stats)
 <br>
-Thank you **Anurag Hazra** for these widgets!
+Thank you **[Anurag Hazra](https://github.com/anuraghazra)** for these widgets!
 <br><br>
 
