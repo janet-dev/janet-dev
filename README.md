@@ -9,6 +9,7 @@ a UK-Irish dual national and career changer from the control industry, studying 
 - 🌱 I am currently learning how to build full stack web applications with **Python** and **[Anvil](https://anvil.works/)**
 - 👯 I have recently joined the **[EddieHub Open Source Community](https://www.eddiehub.org/)** as well as collaborating on **[#FitDevs](https://fitdevs-withkat.github.io/Support/landing_page/)** and **[Astro](https://github.com/withastro)**
 - 📫 How to reach me: via **[Twitter](https://twitter.com/QutyQuine)**
+- 🎓 Tech course certificates [here](https://github.com/janet-dev/tech-course-certificates)
 - ⚡ Fun fact: The image above shows my home town of Belfast, which features **[Titanic Belfast](https://www.titanicbelfast.com/)**, and the **[Harland and Wolff Shipyard](https://www.harland-wolff.com/)** showcasing their ship-building crane **Samson**.<br><br>
 Photo by <a href="https://unsplash.com/@kmitchhodge?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">K. Mitch Hodge</a> on <a href="https://unsplash.com/s/photos/harland-and-wolff?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
