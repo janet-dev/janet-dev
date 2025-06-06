@@ -7,7 +7,6 @@ a UK-Irish dual national and career changer from the control industry, now on an
 
 - 🔭 I am currently building applications with the **[Microsoft Power Platform](https://www.microsoft.com/en-us/power-platform)** - Power Apps, Automate and BI
 - 🌱 I have just passed the **[PL-900 Microsoft Power Platform Fundamentals](https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/)** certification and am now studying C# with **[Code First Girls.](https://codefirstgirls.com/courses/coding-kickstarter/)**
-- 👯 I have recently joined the **[EddieHub Open Source Community](https://www.eddiehub.org/)** as well as collaborating on **[#FitDevs](https://fitdevs-withkat.github.io/Support/landing_page/)** and **[Astro](https://github.com/withastro)**
 - 📫 How to reach me: via **[LinkedIn](https://www.linkedin.com/in/janetdornan/)**
 - 🎓 Tech course certificates **[here](https://github.com/janet-dev/tech-course-certificates)**
 - ⚡ Fun fact: The image above shows my home town of Belfast, which features **[Titanic Belfast](https://www.titanicbelfast.com/)**, and the **[Harland and Wolff Shipyard](https://www.harland-wolff.com/)** showcasing their ship-building crane **Samson**.<br><br>
